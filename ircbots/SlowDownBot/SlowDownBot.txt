@@ -1,0 +1,5 @@
+Somebody who made a bot(Mozilla Public License 2.0) inspired by the code(non-free?) at https://agzuniverse.blogspot.com/2016/05/irc-bot-in-python-tutorial.html and published it on
+https://github.com/lil5/SlowDownBot
+Though it doesn't look like SlowDownBot is based on AGZ's code too much. Let's avoid copyright paranoia.
+
+Tests will be made in ~/dev/IRC_GameHub/SlowDownBot

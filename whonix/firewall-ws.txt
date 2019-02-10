@@ -1,0 +1,7 @@
+This is for editing the firewall in whonix workstation
+
+alt+f2:
+kdesudo kwrite /etc/whonix_firewall.d/50_user.conf
+
+reload firewall in a terminal:
+sudo whonix_firewall
