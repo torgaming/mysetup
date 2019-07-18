@@ -1,9 +1,19 @@
 * git status - check changes done in the repo
+* git diff - check what has changed
 
+* git branch - kinda useless command for now, check what branch I am on, usually master.
+
+# git status - related
+#
 # if git status gives information about untracked files, add the entire directory and all
 # files in the directory and subdirectories should be added too...I think...maybe.
-# Adding new directories inside the mysetup "home dir":
+# Adding new directories inside the mysetup "home dir", separate files or removing files which git have detected were deleted:
 * git add nameofdirectory
 * git add nameofanotherdirectory
 * git add nameofdirectory3
-* git add nameofdirectory4
+* git add nameoffile.c
+* git rm thisfilewaserased-or-renamed.c
+
+* git commit -m "add README to initial commit" - important command that takes a snapshot and let's us prepare a commit before it gets committed/pushed to our main repository.
+* git push - asks for github username and password (it remembers the github repo I'm pushing to though)
+
