@@ -1,9 +1,9 @@
-This is the readme for git and github commands for use in Whonix.
+This is the file with "less useful" git help.
+This is what happens when you got a draft file, are done with it, and then decide to keep it anyway:
+
+- git help everyday ### run everyday guide which is actually helpful! ###
+- git log #history of commits
 
 basic commands for an initialized git repository:
 - git help -a #list all commands
 - git help -g #list git guides
-
-- git help everyday #run everyday guide
-
-- git log #history of commits
