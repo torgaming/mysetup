@@ -1,0 +1,9 @@
+* git status - check changes done in the repo
+
+# if git status gives information about untracked files, add the entire directory and all
+# files in the directory and subdirectories should be added too...I think...maybe.
+# Adding new directories inside the mysetup "home dir":
+* git add nameofdirectory
+* git add nameofanotherdirectory
+* git add nameofdirectory3
+* git add nameofdirectory4

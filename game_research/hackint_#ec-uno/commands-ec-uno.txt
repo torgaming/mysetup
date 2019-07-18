@@ -1,0 +1,44 @@
+ UNO! game. 
+ !uno to start a game. 
+ see 'help uno rules' for the rules, 
+ 
+ 'help uno admin' for admin commands, 
+ 
+ 'help uno score' for scoring rules. 
+ 
+ In-game commands order by  (section is WIP): 
+ * list cards of all players and see your own cards too - ca
+ * pass a turn - pa
+ * pick a new card - pe
+ * play a card - 'pl <card>' to play <card>: e.g. 'pl g7' to play Green 7, or 'pl rr' to play Red Reverse, or 'pl y2y2' to play both
+ * start game - !uno
+ 
+ In-game commands: 
+ * 'ca' to show current cards(it will show the number of cards for all players);
+ * 'cd' to show the current discard; 
+ * 'ch' to challenge a Wild +4; 
+ * 'co <color>' to pick a color after playing a Wild: e.g. 'co g' to select Green (or 'pl w+4 g' to select the color when playing the Wild); 
+ * 'jo' to join in; 
+ * 'pa' to pass your turn; 
+ * 'pe' to pick a card; 
+ * 'pl <card>' to play <card>: e.g. 'pl g7' to play Green 7, or 'pl rr' to play Red Reverse, or 'pl y2y2' to play both Yellow 2 cards; 
+ * 'tu' to show whose turn it is;
+ * 'ti' to show play time; 
+
+ ##################################################
+       PLAYING ORDER
+ ##################################################
+ * 'od' to show the playing order; 
+ ##################################################
+                     SEE MY CARDS
+ ##################################################
+ * 'ca' to show my cards
+ 
+ ##################################################
+ ##################################################
+                   EXAMPLES
+ ##################################################
+ * 'pl gs' = play green skip
+ * 'pl b+2' = "monopolyfun plays  Blue +2"
+ * !uno top = top 5 highest scores ever
+ * !uno

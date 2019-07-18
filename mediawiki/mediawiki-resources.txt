@@ -1,0 +1,6 @@
+This is about installing mediawiki on whonix 14 using lighttpd as server.
+
+https://www.mediawiki.org/wiki/Manual:Installation_guide
+
+https://www.mediawiki.org/w/index.php?title=Manual:Installing_MediaWiki_with_Lighttpd&oldid=2879378
+...adapting guide to whonix 14(havent started yet)

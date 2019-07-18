@@ -1,2 +1,8 @@
 IRC bot in Python -Tutorial
 https://www.youtube.com/watch?v=QNNvNU4CCp8
+
+Full source of the bot
+https://agzuniverse.blogspot.com/2016/05/irc-bot-in-python-tutorial.html
+archived at http://archivecaslytosk.onion/yMhiT
+
+I'm gonna do any tests in ~/dev/IRC_GameHub/agzircbot/

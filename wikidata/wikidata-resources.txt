@@ -2,6 +2,12 @@ Main aim: Host an editable wikidata repo on .onion.
 
 https://www.mediawiki.org/wiki/Extension:Wikibase_Repository
 
-Extension:Wikibase Client is not necessary since hosting a regular mediawiki is not the main focus, we are only interested in wikidata and the query service so users can query the data.
+I'm unsure whether I also need Extension:Wikibase Client. I just want to create a wikidata + query interface.
 
-Installation guide: https://www.mediawiki.org/wiki/Wikibase/Installation
+##################################################################
+with https://www.mediawiki.org/wiki/Wikibase/Installation
+##################################################################
+as base...
+#################################
+Wikibase is dependent on MediaWiki so let's install that first
+~/

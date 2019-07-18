@@ -1,0 +1,9 @@
+This is the readme for git and github commands for use in Whonix.
+
+basic commands for an initialized git repository:
+- git help -a #list all commands
+- git help -g #list git guides
+
+- git help everyday #run everyday guide
+
+- git log #history of commits
