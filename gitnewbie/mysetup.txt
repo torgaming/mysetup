@@ -15,5 +15,5 @@
 * git rm thisfilewaserased-or-renamed.c
 
 * git commit -m "add README to initial commit" - important command that takes a snapshot and let's us prepare a commit before it gets committed/pushed to our main repository.
-* git push - asks for github username and password (it remembers the github repo I'm pushing to though)
+* git push - uploads changes to the repository. Asks for github username and password (it remembers the github repo I'm pushing to though)
 
