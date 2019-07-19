@@ -1,3 +1,5 @@
+This file was mainly written for the mysetup github project which this file is part of.
+
 * git status - check changes done in the repo
 * git diff - check what has changed
 

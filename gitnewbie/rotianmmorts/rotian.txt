@@ -1,0 +1,36 @@
+These are the Travian git commands I use to fetch the latest software of TravianZ to experiment with from mainly https://github.com/iopietro/TravianZ/ and mods and minor changes to gameplay and other media.
+
+This file is part of the introductory steps for git and github commands to make TravianZ run before this month(July 2019) runs out, hackint IRC network time. I did the following to setup it up:
+- I went into my s directory("dir"). I mkdir travianziopetro(pointless, as gonna be seen later...)
+- cd into that dir then I do this command:
+* git clone https://github.com/iopietro/Travianz.git
+- it created a dir called Travianz. After I did ls, it shows me only Travianz dir, no .git dir(that was my mistake in this process, the .git is inside the Travianz dir)
+- I rename the Travianz dir to something else
+* mv Travianz/ travianziopietro
+- I then rename it again(yeah, don't ask)
+* mv travianziopietro/ travianzWHOiopietro/
+- done, now time to move it so I do
+* mv travianzWHOiopietro/ ..
+- ...and that places this dir into the original s dir where I should have done the git clone commands in the first place instead of running around pointlessly like the process you just witnessed.
+- nothing left in this dir
+* cd ..
+- we're back in the main dir
+* rm travianziopetro/
+- didn't work, I need a recursive flag(needed for directories I think!)
+* rm -r travianziopetro/
+- deleted, ok cool. Let's move inside the dir we made such a big fuss about
+* cd travianzWHOiopietro/
+* ls .git
+- ls .git was just to be sure there's a .git dir inside the original "Travianz" dir. Yes there was, confirmed.
+
+Let's get down to business cause this was a bunch of superfluous stuff already...
+- obviously, we have already "anchored in" the clone, so now we have a fresh git repo to get working. Git pull will fetch all new updates(if there are any) so in case my server doesn't run for sane or dumb reasons I can always get the latest version and try again.
+* git pull
+- did what I think it would have done
+
+When I compile I copy the directory into a new one and compile from there. If I somehow fail after doing git pull and I mess stuff up, I might just delete the dir with rm -r trashittravianzWHOiopietro:
+* cp -r travianzWHOiopietro/ trashittravianzWHOiopietro
+- worked fine. If I get many working copies and do different stuff with them then I just create extra directories ie.
+- cp -r travianzWHOiopietro/ trashittravianzWHOiopietro2
+- cp -r travianzWHOiopietro/ trashittravianzWHOiopietro3
+- cp -r travianzWHOiopietro/ trashittravianzWHOiopietrochangedb
