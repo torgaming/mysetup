@@ -2,6 +2,9 @@ This file was mainly written for the mysetup github project which this file is p
 
 * git status - check changes done in the repo
 * git diff - check what has changed
+- from mysetup main dir do...:
+* cat .git/config - ...to find out which repo the git repo is connected to
+- in this case it's https://github.com/torgaming/mysetup
 
 * git branch - kinda useless command for now, check what branch I am on, usually master.
 
@@ -18,4 +21,5 @@ This file was mainly written for the mysetup github project which this file is p
 
 * git commit -m "add README to initial commit" - important command that takes a snapshot and let's us prepare a commit before it gets committed/pushed to our main repository.
 * git push - uploads changes to the repository. Asks for github username and password (it remembers the github repo I'm pushing to though)
+- through this process it also lets us know to which git repo it is uploading the changes to
 

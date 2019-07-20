@@ -1,6 +1,6 @@
 These are the Travian git commands I use to fetch the latest software of TravianZ to experiment with from mainly https://github.com/iopietro/TravianZ/ and mods and minor changes to gameplay and other media.
 
-This file is part of the introductory steps for git and github commands to make TravianZ run before this month(July 2019) runs out, hackint IRC network time. I did the following to setup it up:
+This file is part of the introductory steps for git and github commands to make TravianZ run before this month(July 2019) runs out, hackint IRC network time. I did the following to set it up:
 - I went into my s directory("dir"). I mkdir travianziopetro(pointless, as gonna be seen later...)
 - cd into that dir then I do this command:
 * git clone https://github.com/iopietro/Travianz.git
