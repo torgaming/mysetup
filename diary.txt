@@ -22,4 +22,7 @@ Ok, I've learnt about micro-httpd.
 Sunday July 21 2019 -- 17:00:40 +00:00
 Gonna spend 1h to follow this guide to run micro-httpd http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/Onion_Services#Tor_Onion_Services_-_EASY
 If I need less time I'll let you know
-
+#above committed
+What I'm gonna do is set micro-httpd to port 85 instead of 80.
+- What might complicate things is that I'm already running lighttpd at port 80 and micro-httpd might want to host stuff on the same port until I configure it.
+--No, lighttpd works maybe because micro-httpd didn't automatically turn itself on.
