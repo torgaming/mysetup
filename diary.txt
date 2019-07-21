@@ -19,10 +19,20 @@ spending another 15m learn how to run php code
 - /var/www
 Ok, I've learnt about micro-httpd.
 
-Sunday July 21 2019 -- 17:00:40 +00:00
+Sunday July 21 2019 -- 17:00:40 +00:00, hackint time
 Gonna spend 1h to follow this guide to run micro-httpd http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/Onion_Services#Tor_Onion_Services_-_EASY
 If I need less time I'll let you know
-#above committed
+#standard diary commit
 What I'm gonna do is set micro-httpd to port 85 instead of 80.
 - What might complicate things is that I'm already running lighttpd at port 80 and micro-httpd might want to host stuff on the same port until I configure it.
 --No, lighttpd works maybe because micro-httpd didn't automatically turn itself on.
+#above committed: 1 hour spent trying to figure out micro-httpd
+
+20:05:46 +00:00
+What happened was that I didn't set micro-httpd to port 85 cause I don't know how to do that yet but this will be explored later.
+
+Spending time to learn the gpg web of trust and documenting live. 1 hour
+To learn all gpg commands that are necessary for a healthy web of trust by heart I'm setting in motion the file dailywotpractice.txt
+
+Probably nothing changed but I got this message today. gpg: key 0x8D66066A2EEACCDA: "Patrick Schleizer <adrelanos@riseup.net>" not changed
+and I'm done 21:00:02 +00:00

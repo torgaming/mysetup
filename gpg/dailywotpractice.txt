@@ -1,0 +1,19 @@
+- I have a routine for git, which mostly involves git add and various files, git -m commit "my message here" and git push.
+- This file is for creating a daily routine for gpg and the web of trust. Its evolution will continue adding more commands but for now we'll import a key every day. Sometimes we'll import the same key.
+
+* cd ~/Downloads/keys
+- This is our working directory("dir")
+- We create a new dir for an archive of supposedly old keys.
+* mkdir archivedkeys
+
+routine idea:
+* cd ~/Downloads/keys
+* ls archivedkeys/
+- to see which keys already exist to avoid name collisions.
+* mv patrick.asc patrick2.asc
+- or mv patrick.asc patrick3.asc dependent on new keys which are being downloaded.
+* mv patrick.asc archivedkeys/
+- will put the file with current file name as is in that dir. mv patrick2.asc archivedkeys/ etc. as time goes on
+* wget http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/patrick.asc
+* gpg --import patrick.asc
+
