@@ -1,3 +1,5 @@
 Basic directory("dir") structure of https://github.com/iopietro/TravianZ/
 
+README.md fail
 
+This is php code. I don't know how to run php code, never done it before by hand.

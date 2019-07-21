@@ -8,3 +8,18 @@ just another comment
 
 Saturday July 20 2019 -- 16:29:22 +00:00
 work on challenge. I'm not seeking help until it's the "last day of the loser" July 31, but honestly this is hard.
+
+18:42:21 +00:00
+spending 15m on this to learn how to run php code.
+- sidetracked which web server am I already running?
+- found it.
+
+21:26:10 +00:00
+spending another 15m learn how to run php code
+- /var/www
+Ok, I've learnt about micro-httpd.
+
+Sunday July 21 2019 -- 17:00:40 +00:00
+Gonna spend 1h to follow this guide to run micro-httpd http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/Onion_Services#Tor_Onion_Services_-_EASY
+If I need less time I'll let you know
+
