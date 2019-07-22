@@ -3,3 +3,5 @@ Basic directory("dir") structure of https://github.com/iopietro/TravianZ/
 README.md fail
 
 This is php code. I don't know how to run php code, never done it before by hand.
+
+I must learn if micro-httpd can run php 7 code. I'm going to remove lighttpd for now. It is considered bad practice by the Whonix project and that works, I'm in this learning process where I try mostly to learn new things.

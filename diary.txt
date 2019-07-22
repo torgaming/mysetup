@@ -38,4 +38,13 @@ Probably nothing changed but I got this message today. gpg: key 0x8D66066A2EEACC
 and I'm done 21:00:02 +00:00
 
 Monday July 22 2019 -- 18:48:35 +00:00
-I feel uninspired.
+I feel uninspired but can still work something out...
+gpg next, I did my first commit today. Now I've done my gpg too. 
+
+17 minutes spent working on Travian, thus spent working on micro-httpd
+doing 'man micro-httpd' worked fine. Should have thought of that before I spent these 17 minutes.
+
+Now I'm working a longer 1 hour and 54 minutes to solve once and for all, all the commands I need to make micro-httpd run at all, and to learn if it can run php 7 code.
+micro-httpd runs using inet. What's inet? The man page mentions /etc/inetd.conf but it hasn't been created yet.
+* sudo kwrite /etc/services
+- Anyway I was half way through solving some of the issues I have.

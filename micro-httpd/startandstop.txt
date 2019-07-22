@@ -1,0 +1,2 @@
+How to start and stop micro-httpd, check status etc.
+
