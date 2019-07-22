@@ -32,7 +32,10 @@ What I'm gonna do is set micro-httpd to port 85 instead of 80.
 What happened was that I didn't set micro-httpd to port 85 cause I don't know how to do that yet but this will be explored later.
 
 Spending time to learn the gpg web of trust and documenting live. 1 hour
-To learn all gpg commands that are necessary for a healthy web of trust by heart I'm setting in motion the file dailywotpractice.txt
+To learn all gpg commands that are necessary for a healthy web of trust by heart I'm setting in motion the file dailywotpractice.txt (can be accessed from mysetup/gpg/dailywotpractice.txt dir)
 
 Probably nothing changed but I got this message today. gpg: key 0x8D66066A2EEACCDA: "Patrick Schleizer <adrelanos@riseup.net>" not changed
 and I'm done 21:00:02 +00:00
+
+Monday July 22 2019 -- 18:48:35 +00:00
+I feel uninspired.
