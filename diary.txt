@@ -48,3 +48,6 @@ Now I'm working a longer 1 hour and 54 minutes to solve once and for all, all th
 micro-httpd runs using inet. What's inet? The man page mentions /etc/inetd.conf but it hasn't been created yet.
 * sudo kwrite /etc/services
 - Anyway I was half way through solving some of the issues I have.
+
+Tuesday July 23 2019 -- 19:07:09 +00:00
+Feel even more uninspired, but I feel I have the power to do great things! What a paradox! :)

@@ -1,0 +1,5 @@
+How to find out the git repository location.
+
+- from the root directory of 'mysetup' do this command
+* cat .git/config
+- it should say location in the [remote "origin"] section and "url ="
