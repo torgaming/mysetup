@@ -1,10 +1,16 @@
 - I have a routine for git, which mostly involves git add and various files, git -m commit "my message here" and git push.
-- This file is for creating a daily routine for gpg and the web of trust. Its evolution will continue adding more commands but for now we'll import a key every day. Sometimes we'll import the same key.
+- This file is for creating a daily routine for gpg and the web of trust. Its evolution will continue adding more commands but for now we'll import the same key for each practice session.
 
 * cd ~/Downloads/keys
 - This is our working directory("dir")
 - We create a new dir for an archive of supposedly old keys.
 * mkdir archivedkeys
+
+simple:
+* check folder "archivedkeys" to see what I should rename old patrick.asc file to.
+* download same key over and over using wget http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/patrick.asc
+* import it into the key database
+* see if the key has changed. In either case there's no other action, practice finished!
 
 routine idea:
 * cd ~/Downloads/keys
