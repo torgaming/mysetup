@@ -7,6 +7,7 @@
  'help uno score' for scoring rules. 
  
  In-game commands order by  (section is WIP): 
+ * leave current match - !uno drop
  * list cards of all players and see your own cards too - ca
  * pass a turn - pa
  * pick a new card - pe
