@@ -1,6 +1,7 @@
 - I have a routine for git, which mostly involves git add and various files, git -m commit "my message here" and git push.
 - This file is for creating a daily routine for gpg and the web of trust. Its evolution will continue adding more commands but for now we'll import the same key for each practice session.
 
+setup:
 * cd ~/Downloads/keys
 - This is our working directory("dir")
 - We create a new dir for an archive of supposedly old keys.
@@ -20,6 +21,9 @@ routine idea:
 - or mv patrick.asc patrick3.asc dependent on new keys which are being downloaded.
 * mv patrick.asc archivedkeys/
 - will put the file with current file name as is in that dir. mv patrick2.asc archivedkeys/ etc. as time goes on
+- if we want to compare keys to each other we can use
+* diff -q patrick.asc archivedkeys/patrick3.asc
+- with this diff command we compare the currently downloaded key with one archived key. If there's no difference we get no message. Although gpg --import patrick.asc will tell us the same thing so, not really a need for diff...and diff is not designed for gpg keys so we probably won't get any useful information out of it. gpg --import patrick.asc it is!
 * wget http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/patrick.asc
 * gpg --import patrick.asc
 

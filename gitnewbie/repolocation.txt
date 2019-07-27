@@ -1,5 +1,7 @@
 How to find out the git repository location.
 
 - from the root directory of 'mysetup' do this command
-* cat .git/config
+- from mysetup main dir do...:
+* cat .git/config - ...to find out which repo the git repo is connected to
 - it should say location in the [remote "origin"] section and "url ="
+- in this case it is https://github.com/torgaming/mysetup

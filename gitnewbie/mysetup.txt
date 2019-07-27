@@ -1,7 +1,12 @@
 This file was mainly written for the mysetup github project which this file is part of.
 
 * git status - check changes done in the repo
+- git log is used for many purposes, in this case to supply us with examples to use for the git diff command
+* git log - puts you in 'read git log' mode. Exit with q
 * git diff - check what has changed
+- git diff if you run it alone it will not give a result as you noticed already with the above command
+* git diff 16cab288d2da5311d83f6d3251ef30f03f8a2185 65309c76b917caf119eb280e5ffc95072fb42245 - checking git log we got ourselves 2 checksums. They will most likely look different in your setups...naturally.
+
 - from mysetup main dir do...:
 * cat .git/config - ...to find out which repo the git repo is connected to
 - in this case it's https://github.com/torgaming/mysetup
@@ -22,4 +27,3 @@ This file was mainly written for the mysetup github project which this file is p
 * git commit -m "add README to initial commit" - important command that takes a snapshot and let's us prepare a commit before it gets committed/pushed to our main repository.
 * git push - uploads changes to the repository. Asks for github username and password (it remembers the github repo I'm pushing to though)
 - through this process it also lets us know to which git repo it is uploading the changes to
-
