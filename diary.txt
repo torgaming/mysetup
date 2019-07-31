@@ -65,3 +65,4 @@ git add diary.txt game_research/
 
 Saturday July 27 2019 -- 20:00:04 +00:00
 Today I take on improving my gpg practice guide. Importing a key is one thing, but doing something more I think is in order. We'll see what we learn...
+We should there were 

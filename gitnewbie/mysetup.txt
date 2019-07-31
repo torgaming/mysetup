@@ -7,10 +7,6 @@ This file was mainly written for the mysetup github project which this file is p
 - git diff if you run it alone it will not give a result as you noticed already with the above command
 * git diff 16cab288d2da5311d83f6d3251ef30f03f8a2185 65309c76b917caf119eb280e5ffc95072fb42245 - checking git log we got ourselves 2 checksums. They will most likely look different in your setups...naturally.
 
-- from mysetup main dir do...:
-* cat .git/config - ...to find out which repo the git repo is connected to
-- in this case it's https://github.com/torgaming/mysetup
-
 * git branch - kinda useless command for now, check what branch I am on, usually master.
 
 # git status - related
@@ -23,6 +19,9 @@ This file was mainly written for the mysetup github project which this file is p
 * git add nameofdirectory3
 * git add nameoffile.c
 * git rm thisfilewaserased-or-renamed.c
+- or just add everything with
+* git add .
+- you've added all files without having to select each one separately. Kinda practical.
 
 * git commit -m "add README to initial commit" - important command that takes a snapshot and let's us prepare a commit before it gets committed/pushed to our main repository.
 * git push - uploads changes to the repository. Asks for github username and password (it remembers the github repo I'm pushing to though)
