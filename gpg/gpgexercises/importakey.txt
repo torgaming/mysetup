@@ -1,0 +1,10 @@
+This could be a beginning exercise, while learning the basics of the web of trust.
+
+simple:
+- download the public key (example.asc). When it is downloaded continue with the next step. In this example I download patrick.asc who works for the Whonix project.
+* wget http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/patrick.asc
+- import it into the key database
+* gpg --import patrick.asc
+- You can run this command on the same key over and over. This way if the key changes in the future, gpg --import key.asc will tell you if the key has changed when it compares it to the existing one in your web of trust database.
+* rm patrick.asc
+- so that when I upload this documentation the key won't go along these docs to the repo.

@@ -1,0 +1,2 @@
+https://www.hackint.org/transport/tor lists 4 different onion transports for different purposes.
+
