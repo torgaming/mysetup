@@ -1,6 +1,0 @@
-How to join the web of trust and verify its integrity
-
-~/Downloads/keys/ is where we store all our keys, you should have come to this file from README.md. Thus you downloaded this key there dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/patrick.asc and are working from there right now. The key's been imported, we got 86 or a different number of signatures and we're gonna find out more about the web around that key:
-
-work in progress
-
