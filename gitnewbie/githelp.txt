@@ -1,0 +1,7 @@
+git help file to write better guides
+
+help manuals and guides:
+- git help -a #list all commands
+- git help -g #list git guides
+
+- git help everyday ### run everyday guide which is actually helpful! ###

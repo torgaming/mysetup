@@ -1,0 +1,10 @@
+This will be an exercise in pulling the mysetup repo from github so that it can be worked on in the case that access to the github account torgaming is lost in the future:
+
+* mkdir ~/d/gitraining
+- git training or git raining, doesn't really matter it's just a name.
+- cd into the directory.
+* cd ~/d/gitraining
+- now time to clone mysetup from the github account torgaming:
+* git clone https://github.com/torgaming/mysetup.git
+* cd mysetup
+- I assume we are done(work in progress, needs to be verified)

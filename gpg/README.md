@@ -1,7 +1,10 @@
+UPDATE: You can skip this section entirely and enter the directory gpgexercises. There are exercises there that should help you learn by doing how to enter the gpg/pgp web of trust in a permanent way. Master all exercises(work in progress!) and you'll become a web of trust master for all eternity!
+If you don't want to yet just continue reading and have a good time! When you are done do what I already suggested.
+
 In the past I knew how to use a graphical gpg program in Whonix, but now all this knowledge is practically gone, because it was so long ago and not documented or linked to in a dependable way.
 Also I didn't have a system in which I will preserve the knowledge. This time I'm planning for a 'learn by doing' system in which each user of this greater guide will learn how to permanently enter the web of trust.
 
-This exists as a resource for anybody who's using a recent version of Whonix and for them to feel welcome and find the tools to join the web of trust(not the "fake" or "pretend wot" ones that got little or no cryptography technology as a basis for the web-of-trust system)
+This exists as a resource for anybody who's using a recent version of Whonix and for them to feel welcome and find the tools to join the web of trust:
 
 1. https://www.whonix.org/wiki/Whonix_Signing_Key#Web_of_Trust
 2. https://www.whonix.org/wiki/OpenPGP#The_OpenPGP_Web_of_Trust
