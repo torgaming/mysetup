@@ -9,15 +9,4 @@ This exists as a resource for anybody who's using a recent version of Whonix and
 1. https://www.whonix.org/wiki/Whonix_Signing_Key#Web_of_Trust
 2. https://www.whonix.org/wiki/OpenPGP#The_OpenPGP_Web_of_Trust
 
-Starting off with gpg we may realize that we don't have any keys at all, we might start off empty unless some keys have been downloaded. As I start off in my version of Whonix I got no keys so I start with a list of options of available gpg keys:
-* http://hss3uro2hsxfogfq.onion/contact.php
-- put the PGP key in a file like example.asc
-* touch example.asc
-* kwrite example.asc
-- then copy and paste the file
-
-
-
-
-
-
+Starting off with gpg we may realize that we don't have any keys at all, we might start off empty unless some keys have been downloaded. As I start off in my version of Whonix I got no keys so I enter the directory gpgexercises and begin my journey into the web of trust!

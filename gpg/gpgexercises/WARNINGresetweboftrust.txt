@@ -1,0 +1,15 @@
+WARNING. USING THIS SECTION RESETS YOUR ENTIRE WEB OF TRUST. THAT DOES NOT MEAN YOU CAN'T REBUILD IT IF YOU DO CHOOSE TO FOLLOW THROUGH. 
+I'D RECOMMEND YOU DO THIS FOR TRAINING PURPOSES. IF YOU GOT A COMPLEX NETWORK OF TRUST THAT IS HARD TO REBUILD EXIT THIS FILE NOW.
+THESE INSTRUCTIONS DO NOT ACTUALLY DELETE ANYTHING. YOU SIMPLY BACKUP YOUR PREVIOUS SETTINGS, BUT STILL PRACTICALLY IT COUNTS AS A RESET.
+
+- go to your home directory
+* cd ~
+- this enters your home directory. Now we will rename .gnupg to something else.
+* mv .gnupg reset.gnupg
+- We renamed .gnupg now to to reset.gnupg so we are gonna try
+- a gpg command so it generates a basic directory for gpg:
+* gpg --list-keys
+gpg: directory '/home/whonix/.gnupg' created
+gpg: keybox '/home/whonix/.gnupg/pubring.kbx' created
+gpg: /home/whonix/.gnupg/trustdb.gpg: trustdb created
+- Ok. we are done! gpg has now been RESET

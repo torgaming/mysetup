@@ -1,0 +1,6 @@
+Welcome to this exercise. Here we get a key from an existing keyserver:
+
+* gpg --keyserver hkp://gnjtzu5c2lv4zasv.onion --recv-keys 0x63fee659
+- this command asks for a Tor developer's key. This key should be
+- replaced in the future so we choose a key for a party whose
+- identity we don't know yet.

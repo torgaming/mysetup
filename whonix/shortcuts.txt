@@ -1,0 +1,2 @@
+* kwrite ~/d/mysetup/gpg/gpgexercises/
+- then press tab to open a text editor on whatever file we want

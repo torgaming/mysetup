@@ -1,0 +1,8 @@
+Depends: You need to have at least one key that has been imported into your web of trust. 
+For this exercise I recommend to do at least importakey.txt. If you do importakey.txt or if you have already imported a key with gpg --import yourkeynamehere.asc you can continue
+with this exercise.
+
+- this command will update all keys in your web of trust using gnjtzu5c2lv4zasv.onion as a keyserver.
+* gpg --refresh-keys --keyserver gnjtzu5c2lv4zasv.onion
+- the results of the command tells you later how many keys were processed and how many of them weren't
+- updated.
