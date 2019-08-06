@@ -69,3 +69,6 @@ We should there were
 
 Saturday August 3 2019 -- 13:42:41 +00:00
 Obviously I uploaded a key to my repo. That wasn't supposed to happen, I was supposed to delete it. Will deal with that now
+
+Tuesday August 6 2019 -- 23:17:40 +00:00
+Learning and documenting how to use email with an .onion v3 emailing service in a practical sense.

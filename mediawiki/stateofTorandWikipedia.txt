@@ -1,0 +1,24 @@
+Let's gather all materials that have been used to research Wikipedia and Tor.
+- Tor Users Contributing to Wikipedia: Just Like Everybody Else?
+* https://arxiv.org/abs/1904.04324
+
+Wikipedia to Tor when Tor users attempt to create a new account using .exit nodes:
+* https://meta.wikimedia.org/wiki/Special:MyLanguage/No_open_proxies
+* https://en.wikipedia.org/wiki/Wikipedia:IP_block_exemption
+
+= Wikipedia stating facts to Tor users =
+* https://en.wikipedia.org/wiki/Wikipedia:Advice_to_users_using_Tor
+
+= main mediawiki Tor blocking extension =
+* https://www.mediawiki.org/wiki/Extension:TorBlock
+
+= Wikipedia advises Tor node operators to maliciously modify their .exit nodes to block ALL access to Wikipedia =
+- Actually Wikipedia only blocks Tor edits. This would block reading Wikipedia which is insane.
+* https://en.wikipedia.org/wiki/Wikipedia:WikiProject_on_open_proxies/Tor
+
+= Jimbo Wales in 2007 has an opinion about Tor =
+* https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2007-09-10/Jimbo_interview
+
+follow-up concepts:
+* trust metric - https://en.wikipedia.org/wiki/Trust_metric
+

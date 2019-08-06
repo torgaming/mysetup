@@ -1,4 +1,6 @@
-This is about installing mediawiki on whonix 14 using lighttpd as server.
+This is about installing mediawiki on whonix using some web server.
+Which exactly I don't know. Maybe Lighttpd, though Whonix recommends against it.
+I'm kinda lost. Help?
 
 https://www.mediawiki.org/wiki/Manual:Installation_guide
 

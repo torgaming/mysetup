@@ -3,6 +3,7 @@ This could be a beginning exercise, while learning the basics of the web of trus
 This is a bad example of the web of trust since this is a key that supposedly hasn't been signed that much. The basic idea of the web of trust is to import keys that have been signed by others or making sure that others in your community sign your key and that somebody else has signed their keys that will hopefully connect with a future stranger who belongs to an interconnected gpg web of trust network.
 
 - I need to find a better example of a PGP key.
+- Maybe Carles Tubio Terrón's PGP key http://archivecaslytosk.onion/tVdjI
 
 - visit http://hss3uro2hsxfogfq.onion/contact.php
 * touch example.asc
