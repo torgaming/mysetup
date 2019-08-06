@@ -1,0 +1,29 @@
+This guide is so you can get a default keyserver and so that you don't
+have to specify which keyserver you wanna use each time you run a command
+that needs one. ie. gpg --refresh-keys is gonna be much easier to run
+if you follow this guide.
+
+* touch ~/.gnupg/gpg.conf
+- we created gpg.conf in the .gnupg directory which is located in the home directory.
+- if you already had a file, the touch command is not gonna delete your existing file
+- I think what it does is leave it untouched in such a case. It did for me.
+- Though the version of touch I used is part of GNU coreutils 8.26.
+* kwrite ~/.gnupg/gpg.conf
+- the above kwrite or changemeguieditor command can be run from alt+f2 too
+- if you want to use GNU nano feel free to.
+- Now it is time to put keyserver gnjtzu5c2lv4zasv.onion into the file we just opened
+* keyserver gnjtzu5c2lv4zasv.onion
+- the above is not a command but put that on some line, then save the line and exit
+- Now we are gonna run a command so we can see this setting in use:
+* gpg --refresh-keys
+- If you got no keys imported at all the command won't give you anything. Just a new
+- line and behave as if you had typed no command at all and like you only had hit enter.
+- If that's the case do the importakey.txt exercise, then come back here
+- now try gpg --refresh-keys again
+* gpg --refresh-keys
+gpg: refreshing 1 key from hkp://gnjtzu5c2lv4zasv.onion
+gpg: key 8D66066A2EEACCDA: 99 signatures not checked due to missing keys
+gpg: key 8D66066A2EEACCDA: "Patrick Schleizer <adrelanos@riseup.net>" not changed
+gpg: Total number processed: 1
+gpg:              unchanged: 1
+- ok, let's say you're done with this exercise! Congrats! :)
