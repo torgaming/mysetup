@@ -75,4 +75,18 @@ Learning and documenting how to use email with an .onion v3 emailing service in 
 
 Wednesday August 7 2019 -- 03:35:14 +00:00
 Added a gpg subsection about thunderbird and related information. Mostly links for now
+- I also want to add that I'm going to try to setup thunderbird with torbirdy from scratch
+- each day so that I can exercise the process it takes to do it. The goal is to learn this
+- by heart so I won't need instructions in the future. Nonetheless I will document the process
+- so that others and possibly a future myself can benefit from them.
 
+so in short. I got my git routine, gpg routine is kinda not well thought-out yet and then a new thunderbird
+routine.
+The gpg routine can be improved by offering an alternative to waiting for a keyserver to respond. 
+This keyserver gnjtzu5c2lv4zasv.onion isn't always good at responding so exporting my keys
+with gpg --export --armor --output keys.asc would work. That file is large, I doubt it is suitable for
+a pastebin.
+
+At some point I ran this command
+* gpgconf --list-options gpg
+Might be useful. Who knows. I might need it some day!
