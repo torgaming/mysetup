@@ -1,0 +1,5 @@
+thunderbird install
+
+* sudo apt-get install thunderbird
+- ok, nice, now we install an add-on for thunderbird
+* sudo apt-get install enigmail

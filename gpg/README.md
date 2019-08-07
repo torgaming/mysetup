@@ -1,4 +1,6 @@
-UPDATE: You can skip this section entirely and enter the directory gpgexercises. There are exercises there that should help you learn by doing how to enter the gpg/pgp web of trust in a permanent way. Master all exercises(work in progress!) and you'll become a web of trust master for all eternity!
+You can skip this section entirely and enter the directory gpgexercises but also be informed that the gpg directory also will now host information about how to setup 
+email accounts and programs that are used in relation to gpg. There are exercises there that should help you learn by doing how to enter the 
+gpg/pgp web of trust in a permanent way. Master all exercises(work in progress!) and you'll become a web of trust master for all eternity!
 If you don't want to yet just continue reading and have a good time! When you are done do what I already suggested.
 
 In the past I knew how to use a graphical gpg program in Whonix, but now all this knowledge is practically gone, because it was so long ago and not documented or linked to in a dependable way.
