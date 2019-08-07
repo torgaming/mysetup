@@ -1,7 +1,8 @@
-This could be a beginning exercise, while learning the basics of the web of trust.
+This is a gpg import beginning exercise while learning the basics of the web of trust.
 
 simple:
-- download the public key (for any other key we call it example.asc). When it is downloaded continue with the next step. In this example I download patrick.asc who works for the Whonix project.
+- In this example I download patrick.asc(a public PGP key) which belongs to 
+- one of the main developers who work for the Whonix project.
 * wget http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/patrick.asc
 - import it into the key database
 * gpg --import patrick.asc

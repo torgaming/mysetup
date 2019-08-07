@@ -1,0 +1,23 @@
+As explained in the diary there's a 'not well thought out' gpg routine. This file is for making it more clear what the routine actually is. 
+This should be a web of trust routine and part of the problem why its not defined yet is because I lack some knowledge necessary.
+I'd go as far as resetting the entirety of the .gnupg settings directory for each routine(group of exercises)
+
+Preparation. The preparation section isn't part of the routine.
+It is what should be done once, and once you've done it one time, don't do it again.
+So let's begin:
+* cd ~/d/mysetup/gpg/gpgexercises
+* less WARNINGresetweboftrust.txt
+- now that we've done this let's do more in preparation
+
+* mkdir ~/d/gitraining
+* cd ~/d/gitraining
+* git clone https://github.com/torgaming/mysetup.git
+* cd mysetup/gpg/gpgexercises
+* git pull
+- it should say Already up-to-date.
+
+* Work in progress...
+
+gpg routine(do these in order):
+* WARNINGresetweboftrust.txt
+* 
