@@ -1,1 +1,12 @@
-work in progress...
+Carles Tubio Terrón hosts or is the contact for the .onion v2 transport http://gnjtzu5c2lv4zasv.onion/ which is a working
+key server. It works with gpg when refreshing keys or downloading new keys.
+
+- compare http://archivecaslytosk.onion/tVdjI with https://ca.rles-tub.io./terr%C3%B3n to see if they got the same PGP key.
+- Assuming you used Tor Browser, you still have the PGP key in your clipboard, then paste the contents of the clipboard into
+- a file called example.asc.
+* touch example.asc
+- open example.asc with an editor of your choice.
+- paste the contents of your clipboard(if it has not been cleared) into example.asc. Save the file.
+* gpg --import example.asc
+* rm example.asc
+- guess we are done. Key should be imported now and removed. Well done!

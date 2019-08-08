@@ -16,7 +16,8 @@ So let's begin:
 * git pull
 - it should say Already up-to-date.
 
-* Work in progress...
+- work in progress. My motivation is dwindling, I'll try to do something that is gpg
+related and continue this guide when I'm more motivated.
 
 gpg routine(do these in order):
 * WARNINGresetweboftrust.txt

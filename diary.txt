@@ -90,3 +90,7 @@ a pastebin.
 At some point I ran this command
 * gpgconf --list-options gpg
 Might be useful. Who knows. I might need it some day!
+
+Thursday August 8 2019 -- 02:05:51 +00:00
+I'm done with bothering with gpg any more right now. I'll move on to the
+thunderbird email tutorial for now.
