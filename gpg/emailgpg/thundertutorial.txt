@@ -1,0 +1,48 @@
+This tutorial will guide us through creating a new email address to setting up thunderbird with enigmail 
+heavily inspired by this documentation: 
+http://dds6qkxpwdeubwucdiaord2xgbbeyds25rbsgr73tbfpqpt4a6vjwsyd.onion/wiki/Encrypted_Email_with_Thunderbird_and_Enigmail
+but the information at http://danielas3rtn54uwmofdo3x2bsdifr47huasnmbgqzfrec5ubupvtpid.onion/mail/index.php is also
+necessary to configure thunderbird correctly.
+
+- We start by making a new email address at 
+- http://danielas3rtn54uwmofdo3x2bsdifr47huasnmbgqzfrec5ubupvtpid.onion/mail/postfixadmin/register.php
+- Choose a username and a password. If you can't think of a username use tutorial and add a number to it
+- ie. try with tutorial1, if that's not available try tutorial2 etc.
+- The password can be generated with KeePassX or a similar program. Best done locally, I assume.
+- Now that you've chosen a username and a password. I chose "tutorial" as username and by good luck
+- it seems that username was not taken. I let KeePassX generate a 64 character password for me as
+- well. 
+
+TUTORIAL IS PAUSED SECTION
+
+Skip this section if you don't like to read "stupid text":
+- "I have read and agreed to the Privacy Policy" must be checked to continue. Whether you read
+- the actual Privacy Policy or you don't is fully up to you. It is quicker to do this tutorial if
+- you don't read it. If you had to choose between reading the Privacy Policy and reading this tutorial
+- I'd recommend 1000/1000 times to read this tutorial, I don't want my readers to be delayed.
+- You can read the Privacy Policy when you have completed my tutorial. I believe agreeing with the
+- Privacy Policy is sufficient, reading it is secondary. But hey that's my opinion, if you really feel
+- the right thing is to actually read it before you finish my superb tutorial then go ahead.
+- But then again you won't get a diamond star from me for not reading it but only agreeing with it.
+- You will have to feel content with only a gold star. Though maybe gold is better than diamond, who knows?
+
+Skip this section if you don't like to read "stupid text 2":
+- Thank you for resisting the temptation of reading the above "stupid text". 
+- You have now earned an ".onion transport star".
+- An ".onion transport star" is by far the greatest prize you'll ever receive from me for completing this
+tutorial...
+- ...which has not been written yet, still a work in progress, sorry about that.
+
+TUTORIAL CONTINUES SECTION
+- Now that you have successfully registered an email account you should get a message:
+"The mailbox tutorial@tt3j2x4k5ycaa5zt.onion has been added to the mailbox table."
+- Congratulations! You now have an email address!
+- We are still in Whonix and we are gonna install thunderbird
+* sudo apt-get install thunderbird
+- install thunderbird like that or use a gui like ie. synaptic, your choice.
+- Time to install enigmail
+* sudo apt-get install enigmail
+- again install enigmail like that or use a gui like ie. synaptic, again your choice.
+
+- WORK IN PROGRESS
+
