@@ -1,0 +1,8 @@
+This file was made for the purpose of creating a routine specifically
+to configure gpg. Thus we learn how to train on setting up gpg.
+Examples include resetting the entirety of gpg and the settings
+associated with it, setting a default keyserver etc. A default
+keyserver might be already set up on some systems. So this file
+is about setting up configuration settings and options for gpg.
+
+

@@ -94,3 +94,12 @@ Might be useful. Who knows. I might need it some day!
 Thursday August 8 2019 -- 02:05:51 +00:00
 I'm done with bothering with gpg any more right now. I'll move on to the
 thunderbird email tutorial for now.
+
+Saturday August 10 2019 -- 00:12:03 +00:00
+The git routine is fairly easy, as it is now.
+The gpg routine is a work in progress. I've separated gpgroutines into 2 routines. The 1st 
+routine that guides how the program itself is used and how to configure gpg, and the 2nd
+routine that is about how to download keys and import them, import keys locally, download
+keys that signed other keys etc.
+Finally the thunderbird with email and enigmail routine. 
+The last two routines need more work

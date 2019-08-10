@@ -1,12 +1,16 @@
 As explained in the diary there's a 'not well thought out' gpg routine. This file is for making it more clear what the routine actually is. 
-This should be a web of trust routine and part of the problem why its not defined yet is because I lack some knowledge necessary.
-I'd go as far as resetting the entirety of the .gnupg settings directory for each routine(group of exercises)
+This should be a web of trust routine and part of the problem why its not defined yet is because I lack some knowledge necessary to make
+a meaningful routine possible.
+
+I'd go as far as resetting the entirety of the .gnupg settings directory for each routine(group of exercises) for the purposes of learning
+how to manage a gpg installation from scratch.
 
 Preparation. The preparation section isn't part of the routine.
 It is what should be done once, and once you've done it one time, don't do it again.
 So let's begin:
 * cd ~/d/mysetup/gpg/gpgexercises
 * less WARNINGresetweboftrust.txt
+- follow that guide, proceed with the reset.
 - now that we've done this let's do more in preparation
 
 * mkdir ~/d/gitraining
@@ -16,9 +20,13 @@ So let's begin:
 * git pull
 - it should say Already up-to-date.
 
-- work in progress. My motivation is dwindling, I'll try to do something that is gpg
-related and continue this guide when I'm more motivated.
+The point of this was to create a clone of the repo that we are not working on to
+push new changes but use this to store keys and importing keys.
 
 gpg routine(do these in order):
-* WARNINGresetweboftrust.txt
-* 
+* cd ~/d/gitraining/mysetup/gpg/gpgexercises/
+* less WARNINGresetweboftrust.txt
+- follow the guide to reset gpg.
+- Now let's set a default gpg keyserver
+* less keyserverdefaultsetting.txt
+- follow the guide to set a default keyserver
