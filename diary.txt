@@ -103,3 +103,6 @@ routine that is about how to download keys and import them, import keys locally,
 keys that signed other keys etc.
 Finally the thunderbird with email and enigmail routine. 
 The last two routines need more work
+
+Thursday August 22 2019 -- 16:12:47 +00:00
+nothing new, lets commit
